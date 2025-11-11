@@ -1,19 +1,27 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Goofing Around VI | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Finally! The last sample of such instrumental version. This melody is great for
+deep thinking.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #edm #trance #dance #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/Goofing-Around-VI.mp3
+  Size: 16562176        Blocks: 32352      IO Block: 4096   regular file
+Device: 253,2   Inode: 40768361    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
+Access: 2025-11-11 14:28:11.975796980 +0800
+Modify: 2025-11-11 14:15:32.608249094 +0800
+Change: 2025-11-11 14:15:32.608249094 +080
+ Birth: 2025-08-25 10:32:05.342911401 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-08-25
+On YouTube since : 2025-08-25
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=j0fUoFC0WGY)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +54,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Goofing Around VI
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-goofing-around-vi
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
